@@ -1,4 +1,4 @@
-# QR Code vCard Generator
+# QR Code 1
 
 A simple Python tool that creates QR codes containing contact information (vCard format).  
 When scanned, the QR code lets users save the contact directly to their phone.
